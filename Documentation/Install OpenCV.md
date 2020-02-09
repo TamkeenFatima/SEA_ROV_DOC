@@ -17,6 +17,6 @@ OpenCV (Open source computer vision) is a library of programming functions mainl
 `py -m venv env` [More info](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 ### 2. Install Python [Latest Version](https://www.python.org/downloads/)
 ### 3. Now open command prompt and write the command
-`$python -m pip install numpy`
-`$python -m pip install opencv-python`
+1. `$python -m pip install numpy`
+2. `$python -m pip install opencv-python`
 [More info](https://solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/)
