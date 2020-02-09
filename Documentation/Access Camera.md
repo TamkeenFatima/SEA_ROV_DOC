@@ -1,12 +1,12 @@
 # TASK 2
 
-##Give OpenCV access to camera
+## Give OpenCV access to camera
 Write a code in python to access camera using OpenCV
 
-##Resources
+## Resources
 For information, click [here](https://www.e-consystems.com/blog/camera/how-to-access-cameras-using-opencv-with-python/)
 
-##Steps involved
+## Steps involved
 1. Open a text editor
 2. Write the code in Codes/camera_access.py
 3. Save it as `file_name.py`
