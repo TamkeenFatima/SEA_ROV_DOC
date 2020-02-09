@@ -1,7 +1,7 @@
 # TASK 4
 
-## Detect a specific color from a given image
-I have written a program for detecting 4 colors - red, blue, yellow and gray
+## Finding and drawing contours around a specific color area
+I have used 4 colors - red, blue, yellow and gray
 
 ## Resources
 - [Finding and drawing contours](https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/amp/)
